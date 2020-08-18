@@ -21,7 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a8cf8c3d-0aa7-4c98-a1b9-d689583b04b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <updated>1597649063166</updated>
       <workItem from="1597649064351" duration="15173000" />
       <workItem from="1597687729305" duration="1202000" />
-      <workItem from="1597736192136" duration="1647000" />
+      <workItem from="1597736192136" duration="2715000" />
     </task>
     <task id="LOCAL-00001" summary="added all files">
       <created>1597676478096</created>
@@ -93,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597737705216</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="format code index.html">
+      <created>1597737873828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597737873828</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,7 +121,8 @@
     <MESSAGE value="added all files" />
     <MESSAGE value="added Chart.js" />
     <MESSAGE value="change button value" />
-    <option name="LAST_COMMIT_MESSAGE" value="change button value" />
+    <MESSAGE value="format code index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="format code index.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597737027897">
@@ -126,10 +133,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597736679262" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597737716359">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597737880110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597737716359" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597737880110" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1597737381996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
