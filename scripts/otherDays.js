@@ -1,4 +1,4 @@
-function otherDays(thisHour, data) {
+export function otherDays(thisHour, data) {
     if (thisHour < 3) {
         //Day one
         document.getElementById('dayOneIcon').src = `http://openweathermap.org/img/wn/${data.list[12].weather[0].icon}@2x.png`;
@@ -128,3 +128,5 @@ function otherDays(thisHour, data) {
         document.getElementById('dayFiveIcon').src = `http://openweathermap.org/img/wn/${data.list[37].weather[0].icon}@2x.png`;
         document.getElementById('dayFiveMinMaxTemp').textContent = `${Math.round(data.list[34].main.temp_min)}°C ${Math.round(data.list[38].main.temp_max)}°C`;
     }
+};
+

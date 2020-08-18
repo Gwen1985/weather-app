@@ -1,4 +1,4 @@
-function nameOfMonth(month) {
+export function nameOfMonth(month) {
     if (month == 1) {
         return `January`;
     } else if (month == 2) {
@@ -24,4 +24,5 @@ function nameOfMonth(month) {
     } else if (month == 12) {
         return `December`;
     }
-}
+};
+

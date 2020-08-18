@@ -14,8 +14,9 @@ document.getElementById('submit').addEventListener('click', function (event) {
     let todayPlusFour = today + 4;
     let todayPlusFive = today + 5;
 
+    import {nameOfDay} from './modules.js';
 
-    nameOfDay(day);
+
     // function nameOfDay(day) {
     //     switch (day) {
     //         case 1:
@@ -47,8 +48,8 @@ document.getElementById('submit').addEventListener('click', function (event) {
     //     }
     // }
 
+    import {nameOfMonth} from './modules.js';
 
-    nameOfMonth(month);
     // function nameOfMonth(month) {
     //     if (month == 1) {
     //         return `January`;
@@ -109,7 +110,10 @@ document.getElementById('submit').addEventListener('click', function (event) {
 
             // OTHER DAYS
             // check the time when city is inputted and change the index of the data to always show the min and max temp of the day and the icon of 12 o'clock
-            otherDays(thisHour, data);
+            otherDays(thisHour, data)
+            {
+                import {otherDays} from './modules.js';
+            }
             // if (thisHour < 3) {
             //     //Day one
             //     document.getElementById('dayOneIcon').src = `http://openweathermap.org/img/wn/${data.list[12].weather[0].icon}@2x.png`;
@@ -241,12 +245,15 @@ document.getElementById('submit').addEventListener('click', function (event) {
             // }
 
             // CHART WITH TEMPERATURE
-            drawChart(data);
+            import {drawChart} from './modules.js';
+            drawChart(data){
+
+            }
 
 //submit form when 'Enter' key is pressed while in myInputID
-document.getElementById('cityInput').addEventListener("keyup", function (event) {
-    if (event.keyCode === 13) {
-        event.preventDefault();
-        document.getElementById("submit").click();
-    }
-}
+            document.getElementById('cityInput').addEventListener("keyup", function (event) {
+                if (event.keyCode === 13) {
+                    event.preventDefault();
+                    document.getElementById("submit").click();
+                }
+            }

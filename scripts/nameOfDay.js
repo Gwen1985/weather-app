@@ -1,4 +1,4 @@
-function nameOfDay(day) {
+export function nameOfDay(day) {
     switch (day) {
         case 1:
         case 8:
@@ -27,4 +27,6 @@ function nameOfDay(day) {
             );
             break;
     }
-}
+};
+
+
