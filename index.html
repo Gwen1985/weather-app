@@ -3,14 +3,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap"
           rel="stylesheet">
-    <link rel="stylesheet" href="styles/style.css">
+    <link href="styles/style.css" rel="stylesheet">
     <!--    <script src="node_modules/chart.js/dist/Chart.js"></script>-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.css"
+    <link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.css"
           integrity="sha512-SUJFImtiT87gVCOXl3aGC00zfDl6ggYAw5+oheJvRJ8KBXZrr/TMISSdVJ5bBarbQDRC2pR5Kto3xTR0kpZInA=="
-          crossorigin="anonymous"/>
+          rel="stylesheet"/>
     <title>Weather App</title>
 </head>
 
@@ -18,9 +18,9 @@
 <div class="container">
 
     <div class="input-container">
-        <label for="city">Enter the city Name to get the weather info:</label> </br>
-        <input type="text" id="cityInput" name="cityInput" placeholder="Enter City"> </br>
-        <input type="submit" value="Show weather info" id='submit'>
+        <label for="cityInput">Enter the city Name to get the weather info:</label> </br>
+        <input id="cityInput" name="cityInput" placeholder="Enter City" type="text"> </br>
+        <input id='submit' type="submit" value="Show weather info">
     </div>
 
     <div class="header">
@@ -30,7 +30,7 @@
 
     <div class="mainDayInfo">
         <p id="temperature"></p>
-        <img src="" id="weatherIcon">
+        <img id="weatherIcon" src="">
         <p id="description"></p>
     </div>
     <div class="mainDayExtra">
@@ -44,34 +44,34 @@
         </div>
     </div>
 
-    <canvas id="myChart" width="700px" height="350px"></canvas>
+    <canvas height="350px" id="myChart" width="700px"></canvas>
 
     <div class="otherDays">
         <div class="row">
             <div class="col-s-1"></div>
             <div class="col-s-2 col-xs-6 day" id="dayOne">
                 <p id="dayOneName"></p>
-                <img src="" alt="" id="dayOneIcon" class="iconOtherDays">
+                <img alt="" class="iconOtherDays" id="dayOneIcon" src="">
                 <p id="dayOneMinMaxTemp"></p>
             </div>
             <div class="col-s-2 col-xs-6 day" id="dayTwo">
                 <p id="dayTwoName"></p>
-                <img src="" alt="" id="dayTwoIcon" class="iconOtherDays">
+                <img alt="" class="iconOtherDays" id="dayTwoIcon" src="">
                 <p id="dayTwoMinMaxTemp"></p>
             </div>
             <div class="col-s-2 col-xs-6 day" id="dayThree">
                 <p id="dayThreeName"></p>
-                <img src="" alt="" id="dayThreeIcon" class="iconOtherDays">
+                <img alt="" class="iconOtherDays" id="dayThreeIcon" src="">
                 <p id="dayThreeMinMaxTemp"></p>
             </div>
             <div class="col-s-2 col-xs-6 day" id="dayFour">
                 <p id="dayFourName"></p>
-                <img src="" alt="" id="dayFourIcon" class="iconOtherDays">
+                <img alt="" class="iconOtherDays" id="dayFourIcon" src="">
                 <p id="dayFourMinMaxTemp"></p>
             </div>
             <div class="col-s-2 col-xs-6 day" id="dayFive">
                 <p id="dayFiveName"></p>
-                <img src="" alt="" id="dayFiveIcon" class="iconOtherDays">
+                <img alt="" class="iconOtherDays" id="dayFiveIcon" src="">
                 <p id="dayFiveMinMaxTemp"></p>
             </div>
         </div>
@@ -81,9 +81,9 @@
 
 
 <script src="scripts/script.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js"
+<script crossorigin="anonymous"
         integrity="sha512-QEiC894KVkN9Tsoi6+mKf8HaCLJvyA6QIRzY5KrfINXYuP9NxdIkRQhGq3BZi0J4I7V5SidGM3XUQ5wFiMDuWg=="
-        crossorigin="anonymous"></script>
+        src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.js"></script>
 
 </body>
 
