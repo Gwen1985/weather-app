@@ -19,7 +19,352 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8cf8c3d-0aa7-4c98-a1b9-d689583b04b2" name="Default Changelist" comment="" />
+    <list default="true" id="a8cf8c3d-0aa7-4c98-a1b9-d689583b04b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/import-local-fixture.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-cli" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-cli.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/webpack-cli.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/which" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/which.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/which.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-regex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-regex/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-regex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-regex/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ansi-styles/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/camelcase/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/camelcase/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/camelcase/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/camelcase/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/camelcase/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/index.js.flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/node_modules/supports-color/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/node_modules/supports-color/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/node_modules/supports-color/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/node_modules/supports-color/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/node_modules/supports-color/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/templates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chalk/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cliui/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cliui/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cliui/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cliui/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cliui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/enoent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/escape.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/readShebang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/lib/util/resolveCommand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/cross-spawn/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/decamelize/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/decamelize/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/decamelize/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/decamelize/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/detect-file/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/detect-file/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/detect-file/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/detect-file/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/emoji-regex/LICENSE-MIT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/emoji-regex/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/emoji-regex/es2015/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/emoji-regex/es2015/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/emoji-regex/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/emoji-regex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/emoji-regex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/emoji-regex/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/escape-string-regexp/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/expand-tilde/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/expand-tilde/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/expand-tilde/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/expand-tilde/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/findup-sync/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/findup-sync/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/findup-sync/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/findup-sync/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/get-caller-file/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/get-caller-file/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/get-caller-file/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/get-caller-file/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/get-caller-file/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/get-caller-file/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-modules/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-modules/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-modules/node_modules/global-prefix/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-modules/node_modules/global-prefix/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-modules/node_modules/global-prefix/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-modules/node_modules/global-prefix/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-modules/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-prefix/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-prefix/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-prefix/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/global-prefix/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/has-flag/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/homedir-polyfill/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/homedir-polyfill/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/homedir-polyfill/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/homedir-polyfill/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/homedir-polyfill/polyfill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/import-local/fixtures/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/import-local/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/import-local/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/import-local/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/import-local/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ini/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ini/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ini/ini.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ini/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/interpret/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/interpret/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/interpret/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/interpret/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/interpret/mjs-stub.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/interpret/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/is-fullwidth-code-point/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/isexe/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/isexe/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/isexe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/isexe/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/isexe/mode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/isexe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/isexe/test/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/isexe/windows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nice-try/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nice-try/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nice-try/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nice-try/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/nice-try/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/Not_Quite_JS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/OMeta_Tutorial.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/OMeta_WJS.wjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/OMeta_WJS_Mods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/Things_You_Should_Know.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/Worlds2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/Worlds2_Library.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/arrays.wjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/bs-js-compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/bs-js-compiler.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/bs-ometa-compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/bs-ometa-compiler.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/bs-ometa-js-compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/bs-ometa-js-compiler.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/bs-ometa-optimizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/bs-ometa-optimizer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/bs-project-list-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/bs-project-list-parser.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/lib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/license.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/newLineGrammar.ometa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/newLineTest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/ometa-base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/ometa-node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/ometa-rhino.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/ometa-script-tag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/oshell" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/prototype-fix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/prototype.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/readme-rhino.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/standalone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/v8-shell.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/w2shell" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/wiki.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/ometa/workspace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/parse-passwd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/parse-passwd/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/parse-passwd/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/parse-passwd/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/path-key/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/path-key/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/path-key/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/path-key/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-directory/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-directory/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-directory/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-directory/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-directory/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-directory/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-directory/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-main-filename/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-main-filename/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-main-filename/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-main-filename/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/require-main-filename/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-cwd/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-cwd/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-cwd/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-cwd/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-dir/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-dir/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-dir/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-dir/node_modules/global-modules/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-dir/node_modules/global-modules/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-dir/node_modules/global-modules/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-dir/node_modules/global-modules/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-dir/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-from/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-from/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-from/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/resolve-from/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/examples/blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/examples/compiler_tester.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/examples/grammarInvoker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/examples/input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/examples/tester.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/specs/cssSelectorSpecs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/specs/grammarInvoker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/src/compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/src/cssSelector.ometa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/src/prettyPrint.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/scss/src/scss.ometa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/set-blocking/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/set-blocking/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/set-blocking/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/set-blocking/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/set-blocking/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/shebang-command/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/shebang-command/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/shebang-command/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/shebang-command/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/shebang-regex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/shebang-regex/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/shebang-regex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/shebang-regex/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/string-width/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/string-width/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/string-width/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/string-width/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/strip-ansi/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/strip-ansi/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/strip-ansi/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/strip-ansi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/strip-ansi/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/supports-color/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/v8-compile-cache/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/v8-compile-cache/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/v8-compile-cache/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/v8-compile-cache/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/v8-compile-cache/v8-compile-cache.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/config/config-yargs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/config/optionsSchema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/config/webpackConfigurationSchema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/utils/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/utils/convert-argv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/utils/errorHelpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/utils/prepareOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/utils/prompt-command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/bin/utils/validate-options.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/webpack-cli/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which-module/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which-module/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which-module/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which-module/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which-module/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which/bin/which" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/which/which.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/wrap-ansi/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/wrap-ansi/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/wrap-ansi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/wrap-ansi/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs-parser/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs-parser/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs-parser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs-parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs-parser/lib/tokenize-arg-string.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/apply-extends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/argsert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/completion-templates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/completion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/decamelize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/is-promise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/levenshtein.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/obj-filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/usage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/lib/yerror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/hu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/id.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/ja.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/ko.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/nb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/nn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/pirate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/pt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/pt_BR.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/th.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/zh_CN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/locales/zh_TW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/yargs/yargs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +379,7 @@
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -56,12 +402,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MyProjects" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/webpack" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,6 +428,8 @@
       <workItem from="1597747871425" duration="483000" />
       <workItem from="1597750116161" duration="4743000" />
       <workItem from="1597824929663" duration="5339000" />
+      <workItem from="1597837161205" duration="4058000" />
+      <workItem from="1597841417469" duration="1072000" />
     </task>
     <task id="LOCAL-00001" summary="added all files">
       <created>1597676478096</created>
@@ -135,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597831008982</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added webpak package + all node directories">
+      <created>1597834217483</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597834217483</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,21 +521,34 @@
     <MESSAGE value="split al function from sript.js into separate js files" />
     <MESSAGE value="separate files and functions adding imports in js files" />
     <MESSAGE value="separated all functions with working imports and exports modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="separated all functions with working imports and exports modules" />
+    <MESSAGE value="added webpak package + all node directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="added webpak package + all node directories" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="453" y="247" width="975" height="333" key="#File_Watchers" timestamp="1597841315533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="453" y="247" width="975" height="333" key="#File_Watchers/0.0.1920.1040@0.0.1920.1040" timestamp="1597841315533" />
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597737027897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597737027897" />
-    <state x="293" y="91" width="1385" height="884" key="SettingsEditor" timestamp="1597834043779">
+    <state x="312" y="220" width="1310" height="703" key="EditFileWatcherDialog" timestamp="1597841527122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="293" y="91" width="1385" height="884" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597834043779" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597831019719">
+    <state x="312" y="220" width="1310" height="703" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597841527122" />
+    <state x="584" y="216" width="628" height="518" key="FileChooserDialogImpl" timestamp="1597840635014">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597831019719" />
+    <state x="584" y="216" width="628" height="518" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597840635014" />
+    <state x="288" y="82" width="1385" height="884" key="SettingsEditor" timestamp="1597841531314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="288" y="82" width="1385" height="884" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597841531314" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1597834225144">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1597834225144" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1597737381996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
