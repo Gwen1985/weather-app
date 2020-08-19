@@ -27,6 +27,5 @@ export function nameOfDay(day) {
             );
             break;
     }
-};
-
+}
 

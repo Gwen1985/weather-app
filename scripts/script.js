@@ -1,3 +1,16 @@
+import {nameOfDay} from './nameOfDay.js';
+import {nameOfMonth} from './nameOfMonth.js';
+import {otherDays} from './otherDays.js';
+import {drawChart} from './drawChart.js';
+
+
+document.getElementById('cityInput').addEventListener("keyup", function (event) {
+    if (event.keyCode === 13) {
+        event.preventDefault();
+        document.getElementById("submit").click();
+    }
+})
+
 document.getElementById('submit').addEventListener('click', function (event) {
     let cityInput = document.getElementById('cityInput').value;
 
@@ -14,7 +27,7 @@ document.getElementById('submit').addEventListener('click', function (event) {
     let todayPlusFour = today + 4;
     let todayPlusFive = today + 5;
 
-    import {nameOfDay} from './modules.js';
+    // import {nameOfDay} from './modules.js';
 
 
     // function nameOfDay(day) {
@@ -48,7 +61,6 @@ document.getElementById('submit').addEventListener('click', function (event) {
     //     }
     // }
 
-    import {nameOfMonth} from './modules.js';
 
     // function nameOfMonth(month) {
     //     if (month == 1) {
@@ -94,7 +106,7 @@ document.getElementById('submit').addEventListener('click', function (event) {
             return response.json();
         })
         .then(data => {
-            console.log(data);
+            // console.log(data);
 
             // HEADER
             document.getElementById('cityCountryName').textContent = `${data.city.name}, ${data.city.country}`;
@@ -110,10 +122,7 @@ document.getElementById('submit').addEventListener('click', function (event) {
 
             // OTHER DAYS
             // check the time when city is inputted and change the index of the data to always show the min and max temp of the day and the icon of 12 o'clock
-            otherDays(thisHour, data)
-            {
-                import {otherDays} from './modules.js';
-            }
+            otherDays(thisHour, data);
             // if (thisHour < 3) {
             //     //Day one
             //     document.getElementById('dayOneIcon').src = `http://openweathermap.org/img/wn/${data.list[12].weather[0].icon}@2x.png`;
@@ -245,15 +254,9 @@ document.getElementById('submit').addEventListener('click', function (event) {
             // }
 
             // CHART WITH TEMPERATURE
-            import {drawChart} from './modules.js';
-            drawChart(data){
-
-            }
+            drawChart(data);
 
 //submit form when 'Enter' key is pressed while in myInputID
-            document.getElementById('cityInput').addEventListener("keyup", function (event) {
-                if (event.keyCode === 13) {
-                    event.preventDefault();
-                    document.getElementById("submit").click();
-                }
-            }
+
+        })
+})

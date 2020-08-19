@@ -1,4 +1,4 @@
-export  function drawChart(data) {
+export function drawChart(data) {
 
     let ctx = document.getElementById('myChart');
     let myChart = new Chart(ctx, {
